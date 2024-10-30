@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AliceGiolaSpaceInvaders.Player">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAwAAAAAAAAAAAAAAABAAAAEAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.Invader">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIARAACAgIAAAAAwAAIAAAQAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Invader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.Designer">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAYQARAIAAAAAABAACAAAgAAAA=</HashCode>
+      <FileName>Designer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.Slot">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Slot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.InvaderArmy">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAEgAAAA=</HashCode>
+      <FileName>InvaderArmy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.Scoreboard">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.DisplayScoreboard">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DisplayScoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.Projectile">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAEAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.PlayerProjectile">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.InvaderProjectile">
+    <Position X="2.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAgAEAIAAAABAAAAAAAA=</HashCode>
+      <FileName>EnemyProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.HUD">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.Storyline">
+    <Position X="6.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Storyline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.InvaderW">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvaderW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.InvaderG">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvaderG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AliceGiolaSpaceInvaders.InvaderP">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvaderP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
